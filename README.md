@@ -1,1 +1,2 @@
-# timepass
+# ShellO
+pyhton based shell
