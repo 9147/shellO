@@ -1,2 +1,2 @@
 # ShellO
-pyhton based shell
+python based shell
